@@ -267,3 +267,18 @@ REFERÊNCIAS:
 - https://www.hostinger.com.br/tutoriais/tutorial-do-git-basics-introducao?ppc_campaign=google_performance_max&gclid=Cj0KCQiAjc2QBhDgARIsAMc3SqT1RnE-jksit07eHzrb073nZ4jI47tDXpDhoiNyfla3l6DxKXm3AukaAvygEALw_wcB
 - https://www.carloseduardonogueira.dev/controle-versao/estagios-arquivo-no-git/
 - https://www.carloseduardonogueira.dev/controle-versao/como-git-controla-versao-parte-2/index.html
+
+
+======================================================================================================================================================================================
+CURSOS:
+- https://www.udemy.com/course/git-e-github/learn/lecture/7211470?start=0#overview
+- https://www.udemy.com/course/git-github-o-essencial-para-iniciantes/learn/lecture/28732156?start=0#overview
+- https://www.udemy.com/course/git-para-iniciantes/learn/lecture/11300130?start=0#overview
+- https://www.udemy.com/course/git-e-github-para-iniciantes/learn/lecture/5120524?start=0#overview
+
+======================================================================================================================================================================================
+LIVROS (Fundação Livros Grátis - GitHub):
+- http://rogerdudler.github.io/git-guide/index.pt_BR.html
+- http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/pt_br/
+- https://github.com/ltiaunesp/Git-Minicurso
+- http://git-scm.com/book/pt-br/v2
