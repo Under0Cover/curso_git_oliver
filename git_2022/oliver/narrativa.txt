@@ -282,3 +282,8 @@ LIVROS (Fundação Livros Grátis - GitHub):
 - http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/pt_br/
 - https://github.com/ltiaunesp/Git-Minicurso
 - http://git-scm.com/book/pt-br/v2
+
+======================================================================================================================================================================================
+SLIDES:
+- https://docs.google.com/presentation/d/1p7YZqlCUBfL1LmdKhAgLN9Lx-eFBO9RdxHpGhYdeXUI/edit?usp=sharing
+
