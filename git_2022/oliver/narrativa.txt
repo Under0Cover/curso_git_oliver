@@ -275,6 +275,7 @@ CURSOS:
 - https://www.udemy.com/course/git-github-o-essencial-para-iniciantes/learn/lecture/28732156?start=0#overview
 - https://www.udemy.com/course/git-para-iniciantes/learn/lecture/11300130?start=0#overview
 - https://www.udemy.com/course/git-e-github-para-iniciantes/learn/lecture/5120524?start=0#overview
+- https://www.youtube.com/watch?v=FF1f4bKYhoo&list=PLbEOwbQR9lqzK14I7OOeREEIE4k6rjgIj
 
 ======================================================================================================================================================================================
 LIVROS (Fundação Livros Grátis - GitHub):
